@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+# React Redux weather forecast
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Used google map API and weather forecast API to call web services.
 
-### Getting Started
+User could search cities to display weather information in the charts.
 
-There are two methods for getting started with this repo.
+Used Sparklines to draw the weather information for the next 5 days of a city.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
